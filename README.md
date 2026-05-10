@@ -42,5 +42,9 @@ TV-MA and TV-14 are the most common content ratings
 Cleaned and analysis-ready dataset
 SQL scripts for business questions
 Python notebooks for EDA and visualizations
+
+
+<img width="1298" height="734" alt="image" src="https://github.com/user-attachments/assets/d2b01cd8-d6e5-46d5-a34e-fe46af1de551" />
+
 Comprehensive 150-page academic report
 Power BI dashboard with interactive visuals
